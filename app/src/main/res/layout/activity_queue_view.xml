@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_queue_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.spotifytogether.spotifytogether.QueueActivity">
+
+    <Button
+        android:text="Skip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonSkip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="24sp"
+        android:layout_marginTop="153dp"
+        android:layout_below="@+id/labelPartyCode" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonAddTestSong"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/xlabelPartyCode"
+        android:layout_toEndOf="@+id/xlabelPartyCode"
+        android:layout_marginLeft="96dp"
+        android:layout_marginStart="96dp"
+        style="@style/Widget.AppCompat.Button.Borderless" />
+
+    <TextView
+        android:text="----"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/labelPartyCode"
+        android:textSize="50sp"
+        android:textStyle="normal|bold"
+        android:textColor="@android:color/background_dark"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Party Code"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/xlabelPartyCode"
+        android:textSize="18sp"
+        android:textColor="@android:color/background_dark"
+        android:layout_alignBottom="@+id/labelPartyCode"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="57dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/labelSongName"
+        android:textSize="30sp"
+        android:textColor="@android:color/background_dark"
+        android:layout_below="@+id/buttonAddTestSong"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:text="                   " />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/labelArtist"
+        android:textAlignment="center"
+        android:text="          "
+        android:layout_below="@+id/labelSongName"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/darker_gray" />
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310751726774",
+    "firebase_url": "https://spotify-party-da303.firebaseio.com",
+    "project_id": "spotify-party-da303",
+    "storage_bucket": "spotify-party-da303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310751726774:android:c639e7a4683a8d40",
+        "android_client_info": {
+          "package_name": "com.spotifytogether.spotifytogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310751726774-la0h5ihi8i4kkk5rsqkfcu7e3fisqhki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotifytogether.spotifytogether",
+            "certificate_hash": "66E3B01A4CD5BDF77BA17C6801B332905ABA262F"
+          }
+        },
+        {
+          "client_id": "310751726774-70f55ub784fpc3pa9q1s2b30qh8lhnqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0jHJS6LC2moVikyNY2ESzeBj3n4fwLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310751726774-70f55ub784fpc3pa9q1s2b30qh8lhnqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

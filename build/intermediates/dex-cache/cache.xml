@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_27cb2219fd2e1cc6ebbdc7fd9ce7b6681a0af775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_4b9a9c1bc45a10570a44b9baea3afeab9a801de9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_138a3d7f2b4886adf5070de4f6b4a01559308005/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_3b545a97b88b6cc1bca791b619d3f67abd4864b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_8579ec9832ffc2daea59957632e5fa55dff1196f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_1ca54221951a8f8c9df8b4d2a13b681a4c97b58f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_e4b86ebcc61b5726f0730ded851e12e018c81395/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player-24-noconnect/2.20b/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b54aab38b4f87a6682331b511fec0db6b952bb7e">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jnihelpers-1.0_b03c841e3d18c0a8041831b5334453bc6cb19e19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_cd7fb927606482e75d602e2263a36f3e1b06adc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-android-auth/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e7c2daeb5c4e8a4b0874bd62367979bb1c0c82a">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.spotify.sdk-spotify-android-auth-1.0.0_2281723ff2d7643c5325a5ff43ab277580f3e788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_b6fd07df707cc0a711498cdab078256f8a0abc75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_a7a9cccb643e1f65852cfb59bbd0671940b90f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_c9cd8fc9651fbe06b9d4d19df1411fc97b4dfd1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player-24-noconnect/2.20b/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55220cc71bd23fff8fc339a67f55be3cfd11cdec">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.spotify.sdk-spotify-player-24-noconnect-2.20b_e739d00ea0ec12356ad2f49e2a267b74b462e7f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_78cff84546265b9942c1758dd07ad17806482243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="221e7d7883f1ac9819f8d6904e9c2ac450866e8b">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9fa1a223c1dc3797b36a91e7c11f1f8f8ac7f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d068e8af51caa5de460c4bbe25001956abbc70a">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_38451c6a3ae95dfdeb19a66bc5356013ca3c7ce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_48f6533bc796606c7039c742c2adfaf799a488bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_f3cb73656595106ee142e52f0b77434d46ea6621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_9941ba334595fd563627aacb431bb62e5151f326/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_57c97c5354ca016a4667d649576fda574d77ce38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_5a17d77cf7eafb7f4d292ec975122f48f0358af6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_0ab039bfde7f6c96aa18f1cfaafef06e72ff24be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_a862870ef36697e581b5272cbb41064ae18673d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/matthewgraham/Desktop/SpotifyTogether-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_c574b84d361f581724fc47b985a1a27c22802ce6/classes.dex" />
+    </item>
+
+</items>
